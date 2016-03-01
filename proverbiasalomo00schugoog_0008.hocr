@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./proverbiasalomo00schugoog/proverbiasalomo00schugoog_0008.png"; bbox 0 0 1075 1463; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 54 567 88">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 54 567 88">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 54 567 88; baseline 0.021 -7"><span class='ocrx_word' id='word_1_1' title='bbox 424 54 483 82; x_wconf 53' lang='lat'>[352</span> <span class='ocrx_word' id='word_1_2' title='bbox 496 58 567 88; x_wconf 47' lang='grc' dir='ltr'>ΙᾺ-Εῑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 95 549 127">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 95 549 127">
+     <span class='ocr_line' id='line_1_2' title="bbox 429 95 549 127; baseline 0.025 -3"><span class='ocrx_word' id='word_1_3' title='bbox 429 95 549 127; x_wconf 47' lang='grc' dir='ltr'>μῖὃὲἒὲ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
